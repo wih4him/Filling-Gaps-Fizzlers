@@ -1,5 +1,7 @@
 # Filling Gaps Fizzlers
 
+> **This pack now lives in [BEEmod-Beepacks](https://github.com/wih4him/BEEmod-Beepacks/tree/main/Filling-Gaps-Fizzlers).** This repository is kept as it was and is no longer updated; its links and downloads still work.
+
 > **Download:** [WIH_FillingGapsFizzlers.bee_pack](https://github.com/wih4him/Filling-Gaps-Fizzlers/releases/latest/download/WIH_FillingGapsFizzlers.bee_pack). Put that one file in BEEmod's `packages` folder as it is (don't unzip it) and restart BEEmod. Don't use the green **Code > Download ZIP** button: that zip is the source, not a package.
 
 Five two-function fizzlers for BEEmod (BEE2) and Portal 2. The "gaps" they fill are the remaining combinations of basic custom fizzler types, based on all the custom fizzlers the community has made so far. Together, their ten fizzlers complete the relevant combinations in the original chart (see [Where they fit](#where-they-fit)).
